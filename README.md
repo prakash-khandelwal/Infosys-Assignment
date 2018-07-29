@@ -1,5 +1,5 @@
 # Infosys-Assignment
-This project was created as an assignment received from Infosys.
+This project was created as an interview assignment received from Infosys.
 This project fetchs a json and displays in a recyclerview.
 Project is developed as per specification provided and used industry acceptable standards as required by Infosys.
 
